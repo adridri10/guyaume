@@ -1,0 +1,19 @@
+body{
+	background-image: url("background.gif");
+}
+h1{
+	color: white;
+	font-family: "calibri";
+	font-size: 32;
+	margin-bottom: 5px;
+	margin-top: 5px;
+	text-align: center;
+}
+p{
+	color: black;
+	font-family: "calibri"
+}
+.muse{
+	text-align: center;
+	max-width: 200%;
+}

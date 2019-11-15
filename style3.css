@@ -1,0 +1,32 @@
+body{
+	background-image: url("background.gif");
+}
+h1{
+	color: black;
+	font-family: "calibri";
+	font-size: 32;
+}
+p{
+	color: black;
+	font-family: "calibri"
+}
+.centrage {
+	margin-bottom: 5px;
+	margin-top: 5px;
+	text-align: center;
+}
+.boxB {
+  background-color: lightgrey;
+  border-style: solid;
+  border-width: 2px;
+  border-color: black;
+  border-radius: 10px;
+  margin-top: 50px;
+  margin-bottom: 10px;
+}
+.col {
+	column-count: 2;
+}
+.audio {
+	margin-bottom: 5px;
+}
